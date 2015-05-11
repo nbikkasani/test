@@ -206,7 +206,7 @@ path: "/Users/nag/Desktop/Screen Shot 2015-05-10 at 1.36.42 AM.png"
 }
 
 
-NOTE: All the requests can upport xml extension. So we can update the ends with .xml to see the XML response.
+NOTE: All the requests can support xml extension. So we can update the end points with .xml to see the XML response.
 
 Versioning: Currently only Directory Lisitng service supports the versioning. 
 
